@@ -1,14 +1,18 @@
 {
-	"name": "fcc-learn-node-with-express",
-	"version": "0.1.0",
-	"dependencies": {
-		"express": "^4.14.0",
-		"body-parser": "^1.15.2",
-		"cookie-parser": "^1.4.3",
-		"fcc-express-bground": "https://github.com/freeCodeCamp/fcc-express-bground-pkg.git"
-	},
-	"main": "server.js",
-	"scripts": {
-		"start": "node server.js"
-	}
+    "name": "npm",
+    "dependencies": {
+        "express": "^4.14.0"
+    },
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://idontknow/todo.git"
+    },
+    "description": "https://www.freecodecamp.org/learn/back-end-development-and-apis/managing-packages-with-npm/how-to-use-package-json-the-core-of-any-node-js-project-or-npm-package",
+    "version": "1.0.0",
+    "license": "ISC",
+    "author": "S1drian"
 }
