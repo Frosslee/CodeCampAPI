@@ -1,6 +1,5 @@
 {
-    "name": "fcc-learn-npm-package-json",
-    "author": "S1drian",
+    "name": "npm",
     "dependencies": {
         "express": "^4.14.0"
     },
@@ -11,5 +10,9 @@
     "repository": {
         "type": "git",
         "url": "https://idontknow/todo.git"
-    }
+    },
+    "description": "https://www.freecodecamp.org/learn/back-end-development-and-apis/managing-packages-with-npm/how-to-use-package-json-the-core-of-any-node-js-project-or-npm-package",
+    "version": "1.0.0",
+    "license": "ISC",
+    "author": "S1drian"
 }
